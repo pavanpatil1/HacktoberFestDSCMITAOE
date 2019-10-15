@@ -9,7 +9,7 @@ header {
   margin-bottom: 20px;
 }
 header .logo {
-  max-width: 100px;
+  max-width: 500px;
   width: 100%;
 }
 header .logo:hover {
@@ -34,7 +34,7 @@ padding: 40px;
   box-sizing: border-box;
   padding: 20px;
   width: 80%;
-  color: white;
+  color: black;
   font-family: 'Open Sans', sans-serif;
   /*background-color: white;*/
 }
